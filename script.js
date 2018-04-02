@@ -16,3 +16,7 @@
 
   setInterval(pickColorAtRandom, 200);
 }());
+
+window.onload = function() {
+    document.getElementById("moosick").play();
+}
