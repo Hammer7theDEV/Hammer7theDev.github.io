@@ -1,2 +1,2 @@
-# pongowl.party
+# rioforce.party
 its a party
